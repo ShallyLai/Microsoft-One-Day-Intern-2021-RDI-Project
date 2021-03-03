@@ -61,7 +61,7 @@ def filter_tianshu(data):
 
 
 #Components
-#list_all_articles(json_data)
+list_all_articles(json_data)
 
 select_an_article(choose_one, json_data)
 
