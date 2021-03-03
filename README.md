@@ -1,4 +1,4 @@
-# Microsoft_one_day_intern_2021_RDI_project
+# Microsoft One Day Intern 2021 RDI project
 This project's code was created by my teammate, and I made a slightly change.
 Function of this code:
 1. List All Article
